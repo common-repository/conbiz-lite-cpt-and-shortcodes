@@ -1,0 +1,576 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ConBiz Lite CPT and Shortcodes\n"
+"POT-Creation-Date: 2016-03-30 22:25+0600\n"
+"PO-Revision-Date: 2016-03-30 22:26+0600\n"
+"Last-Translator: wpbean <imranmodel35@gmail.com>\n"
+"Language-Team: WingThemes <imranmodel35@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-SearchPath-0: inc\n"
+
+#: inc/conbiz-post-types.php:18
+msgid "Sliders"
+msgstr ""
+
+#: inc/conbiz-post-types.php:19 inc/conbiz-post-types.php:20
+msgid "Slider"
+msgstr ""
+
+#: inc/conbiz-post-types.php:21
+msgid "Parent Slider:"
+msgstr ""
+
+#: inc/conbiz-post-types.php:22
+msgid "All Sliders"
+msgstr ""
+
+#: inc/conbiz-post-types.php:23
+msgid "View Slider"
+msgstr ""
+
+#: inc/conbiz-post-types.php:24
+msgid "Add New Slider"
+msgstr ""
+
+#: inc/conbiz-post-types.php:25 inc/conbiz-post-types.php:78
+#: inc/conbiz-post-types.php:241 inc/conbiz-post-types.php:353
+msgid "Add New"
+msgstr ""
+
+#: inc/conbiz-post-types.php:26
+msgid "Edit Slider"
+msgstr ""
+
+#: inc/conbiz-post-types.php:27
+msgid "Update Slider"
+msgstr ""
+
+#: inc/conbiz-post-types.php:28
+msgid "Search Slider"
+msgstr ""
+
+#: inc/conbiz-post-types.php:29 inc/conbiz-post-types.php:82
+#: inc/conbiz-post-types.php:245 inc/conbiz-post-types.php:357
+#: inc/conbiz-post-types.php:489
+msgid "Not found"
+msgstr ""
+
+#: inc/conbiz-post-types.php:30 inc/conbiz-post-types.php:83
+#: inc/conbiz-post-types.php:246 inc/conbiz-post-types.php:358
+#: inc/conbiz-post-types.php:490
+msgid "Not found in Trash"
+msgstr ""
+
+#: inc/conbiz-post-types.php:33
+msgid "conbiz_slider"
+msgstr ""
+
+#: inc/conbiz-post-types.php:34
+msgid "Conbiz customized bootstrap carousel slider"
+msgstr ""
+
+#: inc/conbiz-post-types.php:71
+msgid "Portfolios"
+msgstr ""
+
+#: inc/conbiz-post-types.php:72 inc/conbiz-post-types.php:73
+msgid "Portfolio"
+msgstr ""
+
+#: inc/conbiz-post-types.php:74
+msgid "Parent Portfolio:"
+msgstr ""
+
+#: inc/conbiz-post-types.php:75
+msgid "All Portfolios"
+msgstr ""
+
+#: inc/conbiz-post-types.php:76
+msgid "View Portfolio"
+msgstr ""
+
+#: inc/conbiz-post-types.php:77
+msgid "Add New Portfolio"
+msgstr ""
+
+#: inc/conbiz-post-types.php:79
+msgid "Edit Portfolio"
+msgstr ""
+
+#: inc/conbiz-post-types.php:80
+msgid "Update Portfolio"
+msgstr ""
+
+#: inc/conbiz-post-types.php:81
+msgid "Search Portfolio"
+msgstr ""
+
+#: inc/conbiz-post-types.php:92
+msgid "conbiz_portfolio"
+msgstr ""
+
+#: inc/conbiz-post-types.php:93
+msgid "conbiz Portfolio Post Type"
+msgstr ""
+
+#: inc/conbiz-post-types.php:132
+msgid "Portfolio Categories"
+msgstr ""
+
+#: inc/conbiz-post-types.php:133 inc/conbiz-post-types.php:134
+msgid "Portfolio Category"
+msgstr ""
+
+#: inc/conbiz-post-types.php:135
+msgid "All Portfolio Categories"
+msgstr ""
+
+#: inc/conbiz-post-types.php:136
+msgid "Parent Portfolio Category"
+msgstr ""
+
+#: inc/conbiz-post-types.php:137
+msgid "Parent Portfolio Category:"
+msgstr ""
+
+#: inc/conbiz-post-types.php:138
+msgid "New Portfolio Category"
+msgstr ""
+
+#: inc/conbiz-post-types.php:139
+msgid "Add New Portfolio Category"
+msgstr ""
+
+#: inc/conbiz-post-types.php:140
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#: inc/conbiz-post-types.php:141
+msgid "Update Portfolio Category"
+msgstr ""
+
+#: inc/conbiz-post-types.php:142 inc/conbiz-post-types.php:193
+msgid "Separate items with commas"
+msgstr ""
+
+#: inc/conbiz-post-types.php:143
+msgid "Search Portfolio Categories"
+msgstr ""
+
+#: inc/conbiz-post-types.php:144
+msgid "Add or remove Portfolio Categories"
+msgstr ""
+
+#: inc/conbiz-post-types.php:145
+msgid "Choose from the most used Portfolio Categories"
+msgstr ""
+
+#: inc/conbiz-post-types.php:146 inc/conbiz-post-types.php:197
+#: inc/conbiz-post-types.php:309 inc/conbiz-post-types.php:441
+#: inc/conbiz-post-types.php:554
+msgid "Not Found"
+msgstr ""
+
+#: inc/conbiz-post-types.php:183
+msgid "Portfolio Tags"
+msgstr ""
+
+#: inc/conbiz-post-types.php:184 inc/conbiz-post-types.php:185
+msgid "Portfolio Tag"
+msgstr ""
+
+#: inc/conbiz-post-types.php:186
+msgid "All Portfolio Tags"
+msgstr ""
+
+#: inc/conbiz-post-types.php:187
+msgid "Parent Portfolio Tag"
+msgstr ""
+
+#: inc/conbiz-post-types.php:188
+msgid "Parent Portfolio Tag:"
+msgstr ""
+
+#: inc/conbiz-post-types.php:189
+msgid "New Portfolio Tag"
+msgstr ""
+
+#: inc/conbiz-post-types.php:190
+msgid "Add New Portfolio Tag"
+msgstr ""
+
+#: inc/conbiz-post-types.php:191
+msgid "Edit Portfolio Tag"
+msgstr ""
+
+#: inc/conbiz-post-types.php:192
+msgid "Update Portfolio Tag"
+msgstr ""
+
+#: inc/conbiz-post-types.php:194
+msgid "Search Portfolio Tags"
+msgstr ""
+
+#: inc/conbiz-post-types.php:195
+msgid "Add or remove Portfolio Tags"
+msgstr ""
+
+#: inc/conbiz-post-types.php:196
+msgid "Choose from the most used Portfolio Tags"
+msgstr ""
+
+#: inc/conbiz-post-types.php:234
+msgid "Team members"
+msgstr ""
+
+#: inc/conbiz-post-types.php:235 inc/conbiz-post-types.php:236
+msgid "Team"
+msgstr ""
+
+#: inc/conbiz-post-types.php:237
+msgid "Parent Team:"
+msgstr ""
+
+#: inc/conbiz-post-types.php:238
+msgid "All team members"
+msgstr ""
+
+#: inc/conbiz-post-types.php:239
+msgid "View Team"
+msgstr ""
+
+#: inc/conbiz-post-types.php:240
+msgid "Add New Team"
+msgstr ""
+
+#: inc/conbiz-post-types.php:242
+msgid "Edit Team"
+msgstr ""
+
+#: inc/conbiz-post-types.php:243
+msgid "Update Team"
+msgstr ""
+
+#: inc/conbiz-post-types.php:244
+msgid "Search Team"
+msgstr ""
+
+#: inc/conbiz-post-types.php:255
+msgid "conbiz_team"
+msgstr ""
+
+#: inc/conbiz-post-types.php:256
+msgid "conbiz team post type"
+msgstr ""
+
+#: inc/conbiz-post-types.php:295
+msgid "Team categories"
+msgstr ""
+
+#: inc/conbiz-post-types.php:296 inc/conbiz-post-types.php:297
+msgid "Team category"
+msgstr ""
+
+#: inc/conbiz-post-types.php:298
+msgid "All categories"
+msgstr ""
+
+#: inc/conbiz-post-types.php:299
+msgid "Parent team category"
+msgstr ""
+
+#: inc/conbiz-post-types.php:300
+msgid "Parent team category:"
+msgstr ""
+
+#: inc/conbiz-post-types.php:301
+msgid "New Team Category Name"
+msgstr ""
+
+#: inc/conbiz-post-types.php:302
+msgid "Add New Team Category"
+msgstr ""
+
+#: inc/conbiz-post-types.php:303
+msgid "Edit Team Category"
+msgstr ""
+
+#: inc/conbiz-post-types.php:304
+msgid "Update Team Category"
+msgstr ""
+
+#: inc/conbiz-post-types.php:305
+msgid "Separate team categories with commas"
+msgstr ""
+
+#: inc/conbiz-post-types.php:306
+msgid "Search Team Categories"
+msgstr ""
+
+#: inc/conbiz-post-types.php:307
+msgid "Add or remove team categories"
+msgstr ""
+
+#: inc/conbiz-post-types.php:308
+msgid "Choose from the most used team categories"
+msgstr ""
+
+#: inc/conbiz-post-types.php:346
+msgid "Testimonials"
+msgstr ""
+
+#: inc/conbiz-post-types.php:347 inc/conbiz-post-types.php:348
+msgid "Testimonial"
+msgstr ""
+
+#: inc/conbiz-post-types.php:349
+msgid "Parent Testimonial:"
+msgstr ""
+
+#: inc/conbiz-post-types.php:350
+msgid "All Testimonials"
+msgstr ""
+
+#: inc/conbiz-post-types.php:351
+msgid "View Testimonial"
+msgstr ""
+
+#: inc/conbiz-post-types.php:352
+msgid "Add New Testimonial"
+msgstr ""
+
+#: inc/conbiz-post-types.php:354
+msgid "Edit Testimonial"
+msgstr ""
+
+#: inc/conbiz-post-types.php:355
+msgid "Update Testimonial"
+msgstr ""
+
+#: inc/conbiz-post-types.php:356
+msgid "Search Testimonial"
+msgstr ""
+
+#: inc/conbiz-post-types.php:367
+msgid "conbiz_testimonial"
+msgstr ""
+
+#: inc/conbiz-post-types.php:368
+msgid "Conbiz testimonial post type."
+msgstr ""
+
+#: inc/conbiz-post-types.php:407
+msgid "Client Name"
+msgstr ""
+
+#: inc/conbiz-post-types.php:427
+msgid "Testimonial Categories"
+msgstr ""
+
+#: inc/conbiz-post-types.php:428 inc/conbiz-post-types.php:429
+msgid "Testimonial Category"
+msgstr ""
+
+#: inc/conbiz-post-types.php:430
+msgid "All Testimonial Categories"
+msgstr ""
+
+#: inc/conbiz-post-types.php:431
+msgid "Parent Testimonial Category"
+msgstr ""
+
+#: inc/conbiz-post-types.php:432
+msgid "Parent Testimonial Category:"
+msgstr ""
+
+#: inc/conbiz-post-types.php:433
+msgid "New Testimonial Category Name"
+msgstr ""
+
+#: inc/conbiz-post-types.php:434
+msgid "Add New Testimonial Category"
+msgstr ""
+
+#: inc/conbiz-post-types.php:435
+msgid "Edit Testimonial Category"
+msgstr ""
+
+#: inc/conbiz-post-types.php:436
+msgid "Update Testimonial Category"
+msgstr ""
+
+#: inc/conbiz-post-types.php:437
+msgid "Separate Testimonial Categories with commas"
+msgstr ""
+
+#: inc/conbiz-post-types.php:438
+msgid "Search Testimonial Categories"
+msgstr ""
+
+#: inc/conbiz-post-types.php:439
+msgid "Add or remove Testimonial Categories"
+msgstr ""
+
+#: inc/conbiz-post-types.php:440
+msgid "Choose from the most used testimonial categories"
+msgstr ""
+
+#: inc/conbiz-post-types.php:478
+msgid "Logos"
+msgstr ""
+
+#: inc/conbiz-post-types.php:479
+msgid "Logo"
+msgstr ""
+
+#: inc/conbiz-post-types.php:480
+msgid "Partner,logo, etc."
+msgstr ""
+
+#: inc/conbiz-post-types.php:481
+msgid "Parent logo:"
+msgstr ""
+
+#: inc/conbiz-post-types.php:482
+msgid "All Logos"
+msgstr ""
+
+#: inc/conbiz-post-types.php:483
+msgid "View Logo"
+msgstr ""
+
+#: inc/conbiz-post-types.php:484 inc/conbiz-post-types.php:485
+msgid "Add New Logo"
+msgstr ""
+
+#: inc/conbiz-post-types.php:486
+msgid "Edit Logo"
+msgstr ""
+
+#: inc/conbiz-post-types.php:487
+msgid "Update Logo"
+msgstr ""
+
+#: inc/conbiz-post-types.php:488
+msgid "Search Logo"
+msgstr ""
+
+#: inc/conbiz-post-types.php:499
+msgid "conbiz_client_logos"
+msgstr ""
+
+#: inc/conbiz-post-types.php:500
+msgid "logos post type."
+msgstr ""
+
+#: inc/conbiz-post-types.php:540 inc/conbiz-post-types.php:541
+msgid "Logo Category"
+msgstr ""
+
+#: inc/conbiz-post-types.php:542
+msgid "Logos Category"
+msgstr ""
+
+#: inc/conbiz-post-types.php:543
+msgid "All Logos Categories"
+msgstr ""
+
+#: inc/conbiz-post-types.php:544
+msgid "Parent Logos Category"
+msgstr ""
+
+#: inc/conbiz-post-types.php:545
+msgid "Parent Logos Category:"
+msgstr ""
+
+#: inc/conbiz-post-types.php:546
+msgid "New Logos Category Name"
+msgstr ""
+
+#: inc/conbiz-post-types.php:547
+msgid "Add New Logos Category"
+msgstr ""
+
+#: inc/conbiz-post-types.php:548
+msgid "Edit Logos Category"
+msgstr ""
+
+#: inc/conbiz-post-types.php:549
+msgid "Update Logos Category"
+msgstr ""
+
+#: inc/conbiz-post-types.php:550
+msgid "Separate Logos Categories with commas"
+msgstr ""
+
+#: inc/conbiz-post-types.php:551
+msgid "Search Logos Categories"
+msgstr ""
+
+#: inc/conbiz-post-types.php:552
+msgid "Add or remove Logos Categories"
+msgstr ""
+
+#: inc/conbiz-post-types.php:553
+msgid "Choose from the most used Logos Categories"
+msgstr ""
+
+#: inc/conbiz-shortcode.php:361
+msgid "<h2 class=\"text-center\">No Post Found For Slider.</h2>"
+msgstr ""
+
+#: inc/conbiz-shortcode.php:416 inc/conbiz-shortcode.php:806
+#: inc/conbiz-shortcode.php:987
+msgid "Read More"
+msgstr ""
+
+#: inc/conbiz-shortcode.php:492
+msgid "Contact US"
+msgstr ""
+
+#: inc/conbiz-shortcode.php:581
+msgid "<h2 class=\"text-center\">No Post Found For Portfolio.</h2>"
+msgstr ""
+
+#: inc/conbiz-shortcode.php:718
+msgid "No Post Found For Team."
+msgstr ""
+
+#: inc/conbiz-shortcode.php:718
+msgid "<h2 class=\"text-center\">"
+msgstr ""
+
+#: inc/conbiz-shortcode.php:735
+msgid "Counter Title"
+msgstr ""
+
+#: inc/conbiz-shortcode.php:803
+msgid "No Comments"
+msgstr ""
+
+#: inc/conbiz-shortcode.php:803
+msgid "one Comment"
+msgstr ""
+
+#: inc/conbiz-shortcode.php:803
+msgid "% Comments"
+msgstr ""
+
+#: inc/conbiz-shortcode.php:815
+msgid "<h2 class=\"text-center\">No Post Found For Blog.</h2>"
+msgstr ""
+
+#: inc/conbiz-shortcode.php:880
+msgid "<h2 class=\"text-center\">No Post Found For Testimonial.</h2>"
+msgstr ""
+
+#: inc/conbiz-shortcode.php:943
+msgid "<h2 class=\"text-center\">No Post Found For Logos.</h2>"
+msgstr ""
